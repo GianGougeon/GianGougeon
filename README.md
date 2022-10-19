@@ -12,7 +12,7 @@
 <img alt="" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" width="40px"/>
 <img alt="" src="https://img.icons8.com/color/344/bootstrap.png" width="40px"/>
 <img alt="" src="https://img.icons8.com/color/48/000000/sass.png" width="40px"/>
-
+<img alt="" src="https://styled-components.com/logo.png" width="40px"/>
 
 **Backend Development** <br/>
 <img alt="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40px">

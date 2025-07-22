@@ -1,41 +1,77 @@
-## Hi 👋, I'm Gian
+<h1 align="center">👋 ¡Hola, soy Gian Gougeon!</h1>
 
-<h4>Un apasionado desarrollador web de Uruguay 🤗</h3>
+<p align="center">
+  💻 Full Stack Developer | Estudiante <br>
+  🎯 Apasionado por el desarrollo web moderno y mi objetivo actual es ser Analista Programador <br>
+  📍 Colonia, Uruguay
+</p>
 
+---
 
-## My Stacks
+### 🚀 Sobre mí
 
-**Frontend Development** <br/>
-<img alt="" src="https://img.icons8.com/color/344/html-5--v1.png" width="40px"/>
-<img alt="" src="https://img.icons8.com/color/344/css3.png" width="40px"/>
-<img alt="" src="https://img.icons8.com/color/344/javascript--v1.png" width="40px"/>
-<img alt="" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" width="40px"/>
-<img alt="" src="https://img.icons8.com/color/344/bootstrap.png" width="40px"/>
-<img alt="" src="https://img.icons8.com/color/48/000000/sass.png" width="40px"/>
-<img alt="" src="https://styled-components.com/logo.png" width="40px"/>
+-   🎓 Graduado en **Desarrollo Full Stack** en Coderhouse
+-   🧠 Cursando la carrera de **Analista Programador**
+-   💡 Trabajo en proyectos web usando tecnologías actuales del frontend y backend
+-   🛠️ Me enfoco en escribir código limpio, modular y bien estructurado
+-   📈 Apunto a crecer como desarrollador profesional full stack
 
-**Backend Development** <br/>
-<img alt="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40px">
-<img alt=""  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40px">
+---
 
+### 💼 Proyectos Destacados
 
+| Proyectos                                                                | Tecnologías               | Descripción                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------ | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [🎬 PelisFlix](https://github.com/GianGougeon/ObligatorioProgramacion1)  | HTML, CSS, JavaScript     | App para gestionar películas, clientes y alquileres con estadísticas en tiempo real usando localStorage.                                                                                                                                 |
+| [📝 Ejercicios JS](https://github.com/GianGougeon/CTC-Rosario-ejericios) | HTML, CSS, JavaScript     | Ejercicios basicos Doom                                                                                                                                                                                                                  |
+| [⚔️ Epic7 Web](https://github.com/GianGougeon/Epic7-Web)                 | Next.js, SCSS, Firebase   | Web interactiva sobre **Epic Seven** con guías de héroes, diseño responsive inspirado en el juego, usando API propia, y con un enfoque en la experiencia del usuario, con posibilidad de guardar y compartir contrucciones de personajes |
+| [⚙️ Backend Ecommerce](https://github.com/GianGougeon/Backend)           | Node.js, Express, MongoDB | Proyecto Backend, API RESTful para plataforma de ecommerce                                                                                                                                                                               |
+| [🛍️ Tienda Online](https://github.com/GianGougeon/Proyecto-ReactJS)      | React, Firebase, SCSS     | Ecommerce completo con catálogo, carrito de compras, pasarela de pagos, con autenticación de usuarios.                                                                                                                                   |
 
-**Database** <br/>
-<img alt="" src="https://img.icons8.com/color/344/mongodb.png" width="40px"/>
-<img alt="" src="https://img.icons8.com/color/344/mysql-logo.png" width="40px"/> 
-<img alt="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis"  width="40px">
+---
 
-**Backend as a Service(BaaS)** <br/>
-<img alt="" src="https://img.icons8.com/color/48/000000/firebase.png"  width="40px"/>
+### ⚙️ Tecnologías que eh utilizado
 
-**Static Site Generators** <br/>
-<img alt="" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40px">
+#### **Frontend**
 
-**Other** <br/>
-<img alt="" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40px">
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Styled Components](https://img.shields.io/badge/Styled--Components-db7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-## 
+#### **Backend y Bases de Datos**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GianGougeon&layout=compact)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
-## 
+#### **Otras tecnologías**
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+---
+
+### 📈 Estadísticas
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianGougeon&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Lenguajes más usados" width="300"/>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GianGougeon&theme=dark&hide_border=true" alt="Racha de contribuciones" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=giangougeon&show_icons=true&theme=radical" width="380"></p>
+
+---
+
+### 📫 Contacto
+
+-   ✉️ **Email:** giangougeon@gmail.com
+-   🌐 **LinkedIn:** [Perfil](https://www.linkedin.com/in/gian-gougeon/)
+<!-- -   📁 **Portfolio Web:** _(opcional, podés armarlo con Next.js + Vercel o GitHub Pages)_ -->
+
+---

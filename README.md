@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Full Stack Developer | Estudiante <br>
-  🎯 Apasionado por el desarrollo web moderno y mi objetivo actual es ser Analista Programador <br>
+  🎯 Aprendiendo y sumando conocimientos en el desarrollo web moderno, mi objetivo actual es ser Analista Programador <br>
   📍 Colonia, Uruguay
 </p>
 

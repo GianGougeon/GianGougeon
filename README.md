@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 ¡Hola, soy Gian Gougeon!</h1>
 
 <p align="center">
@@ -10,24 +11,25 @@
 
 ### 🚀 Sobre mí
 
--   🎓 Graduado en **Desarrollo Full Stack** en Coderhouse
--   🧠 Cursando la carrera de **Analista Programador**
--   💡 Trabajo en proyectos web usando tecnologías actuales del frontend y backend
--   🛠️ Me enfoco en escribir código limpio, modular y bien estructurado
--   📈 Apunto a crecer como desarrollador profesional full stack
+- 🎓 Graduado en **Desarrollo Full Stack** en Coderhouse
+- 🧠 Cursando la carrera de **Analista Programador**
+- 💡 Trabajo en proyectos web usando tecnologías actuales del frontend y backend
+- 🛠️ Me enfoco en escribir código limpio, modular y bien estructurado
+- 📈 Apunto a crecer como desarrollador profesional full stack
 
 ---
 
 ### 💼 Proyectos Destacados
 
-| Proyectos                                                                | Tecnologías               | Descripción                                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------ | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [🙌 Level-Up-Accesible](https://github.com/GianGougeon/Level-Up-Accesible)  | HTML, CSS, JavaScript, SCSS     | Sitio web informativo, enfocado en videojuegos, hardware y comunidades de gaming que promueven la accesibilidad para jugadores con discapacidades.                                                                              |
-| [🎬 PelisFlix](https://github.com/GianGougeon/ObligatorioProgramacion1)  | HTML, CSS, JavaScript     | App para gestionar películas, clientes y alquileres con estadísticas en tiempo real usando localStorage.                                                                                                                                 |
-| [📝 Ejercicios JS](https://github.com/GianGougeon/CTC-Rosario-ejericios) | HTML, CSS, JavaScript     | Ejercicios basicos Doom                                                                                                                                                                                                                  |
-| [⚔️ Epic7 Web](https://github.com/GianGougeon/Epic7-Web)                 | Next.js, SCSS, Firebase   | Web interactiva sobre **Epic Seven** con guías de héroes, diseño responsive inspirado en el juego, usando API propia, y con un enfoque en la experiencia del usuario, con posibilidad de guardar y compartir contrucciones de personajes |
-| [⚙️ Backend Ecommerce](https://github.com/GianGougeon/Backend)           | Node.js, Express, MongoDB | Proyecto Backend, API RESTful para plataforma de ecommerce                                                                                                                                                                               |
-| [🛍️ Tienda Online](https://github.com/GianGougeon/Proyecto-ReactJS)      | React, Firebase, SCSS     | Ecommerce completo con catálogo, carrito de compras, pasarela de pagos, con autenticación de usuarios.                                                                                                                                   |
+| Proyectos                                                               | Tecnologías                | Descripción                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [💰 Conversor-de-Monedas](https://github.com/GianGougeon/Conversor-de-Monedas) | HTML, CSS, JavaScript, API | Conversor de Monedas es una aplicación web moderna y responsive diseñada para realizar conversiones monetarias entre dólares estadounidenses (USD) , pesos uruguayos (UYU) y pesos argentinos (ARS).                                                                                               |
+| [🙌 Level-Up-Accesible](https://github.com/GianGougeon/Level-Up-Accesible) | HTML, CSS, JavaScript, SCSS, API | Sitio web informativo, enfocado en videojuegos, hardware y comunidades de gaming que promueven la accesibilidad para jugadores con discapacidades.                                                                                               |
+| [🎬 PelisFlix](https://github.com/GianGougeon/ObligatorioProgramacion1)    | HTML, CSS, JavaScript       | App para gestionar películas, clientes y alquileres con estadísticas en tiempo real usando localStorage.                                                                                                                                       |
+| [📝 Ejercicios JS](https://github.com/GianGougeon/CTC-Rosario-ejericios)   | HTML, CSS, JavaScript       | Ejercicios basicos Doom                                                                                                                                                                                                                          |
+| [⚔️ Epic7 Web](https://github.com/GianGougeon/Epic7-Web)                 | Next.js, SCSS, Firebase     | Web interactiva sobre**Epic Seven** con guías de héroes, diseño responsive inspirado en el juego, usando API propia, y con un enfoque en la experiencia del usuario, con posibilidad de guardar y compartir contrucciones de personajes |
+| [⚙️ Backend Ecommerce](https://github.com/GianGougeon/Backend)           | Node.js, Express, MongoDB   | Proyecto Backend, API RESTful para plataforma de ecommerce                                                                                                                                                                                       |
+| [🛍️ Tienda Online](https://github.com/GianGougeon/Proyecto-ReactJS)      | React, Firebase, SCSS       | Ecommerce completo con catálogo, carrito de compras, pasarela de pagos, con autenticación de usuarios.                                                                                                                                         |
 
 ---
 
@@ -72,8 +74,9 @@
 
 ### 📫 Contacto
 
--   ✉️ **Email:** giangougeon@gmail.com
--   🌐 **LinkedIn:** [Perfil](https://www.linkedin.com/in/gian-gougeon/)
+- ✉️ **Email:** giangougeon@gmail.com
+- 🌐 **LinkedIn:** [Perfil](https://www.linkedin.com/in/gian-gougeon/)
+
 <!-- -   📁 **Portfolio Web:** _(opcional, podés armarlo con Next.js + Vercel o GitHub Pages)_ -->
 
 ---

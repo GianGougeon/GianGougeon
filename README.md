@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 ¡Hola, soy Gian Gougeon!</h1>
 
 <p align="center">
@@ -23,6 +22,7 @@
 
 | Proyectos                                                               | Tecnologías                | Descripción                                                                                                                                                                                                                                     |
 | ----------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [📝 Reseñas Gastronómicas](https://github.com/GianGougeon/Resenas-Gastronomicas) | JavaScript, Firebase, Tailwind CSS | App web para registrar y gestionar reseñas de experiencias culinarias con estadísticas y calificación por estrellas. |
 | [💰 Conversor-de-Monedas](https://github.com/GianGougeon/Conversor-de-Monedas) | HTML, CSS, JavaScript, API | Conversor de Monedas es una aplicación web moderna y responsive diseñada para realizar conversiones monetarias entre dólares estadounidenses (USD) , pesos uruguayos (UYU) y pesos argentinos (ARS).                                                                                               |
 | [🙌 Level-Up-Accesible](https://github.com/GianGougeon/Level-Up-Accesible) | HTML, CSS, JavaScript, SCSS, API | Sitio web informativo, enfocado en videojuegos, hardware y comunidades de gaming que promueven la accesibilidad para jugadores con discapacidades.                                                                                               |
 | [🎬 PelisFlix](https://github.com/GianGougeon/ObligatorioProgramacion1)    | HTML, CSS, JavaScript       | App para gestionar películas, clientes y alquileres con estadísticas en tiempo real usando localStorage.                                                                                                                                       |
@@ -76,7 +76,5 @@
 
 - ✉️ **Email:** giangougeon@gmail.com
 - 🌐 **LinkedIn:** [Perfil](https://www.linkedin.com/in/gian-gougeon/)
-
-<!-- -   📁 **Portfolio Web:** _(opcional, podés armarlo con Next.js + Vercel o GitHub Pages)_ -->
 
 ---
